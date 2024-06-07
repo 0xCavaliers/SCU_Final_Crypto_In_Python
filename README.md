@@ -97,3 +97,5 @@ python main.py verify_signature signature.txt decrypted_data.txt sm2_public_key.
 python main.py check_consistency target_data.txt decrypted_data.txt
 
 **正常情况都是输出success**
+
+<font color=red>**制作不易，如果能帮上你，可以的话花费你几秒钟的时间帮作者点上一颗闪亮的小心心，好人一生平安谢谢喵~**</font>
