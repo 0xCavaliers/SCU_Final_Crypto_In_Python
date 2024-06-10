@@ -6,7 +6,8 @@
 
 ### 1.1 配置pip指令
 
-命令行键入：sudo apt-get install python-pip python3-pip
+命令行键入：sudo apt-get install python3-pip
+如果是老版本的虚拟机（python环境低于3.0）：sudo apt-get install python-pip
 
 ### 1.2 使用pip指令安装相关包
 
